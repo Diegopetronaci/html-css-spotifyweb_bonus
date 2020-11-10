@@ -612,12 +612,12 @@ footer#site_footer {
 
   /* menu_play */
   .menu_play{
-    width: 300px;
+    width: 120px;
     height: 100px;
   }
   .menu_play i{
     font-size: 100%;
-    padding: 0px 7px;
+    padding: 0px 3px;
   }
   .bar_main{
     width: 100px;
@@ -630,6 +630,9 @@ footer#site_footer {
   /* menu_play */
 
   /* menu_audio */
+  .menu_audio{
+    margin-right: 0;
+  }
   .menu_audio i{
     font-size: 13px;
   }
